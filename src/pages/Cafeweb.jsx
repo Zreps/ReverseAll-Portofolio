@@ -6,7 +6,7 @@ import cafeimage5 from '../assets/5c.png'
 import cafeimage6 from '../assets/6c.png'
 import cafeimage7 from '../assets/7c.png'
 import cafeimage9 from '../assets/9c.png'
-import { Helmet } from 'react-helmet-async'
+
 
 const galleryItems = [
   {
@@ -55,10 +55,6 @@ const galleryItems = [
 export default function Cafeweb() {
   return (
     <section className="min-h-screen bg-transparent text-slate-100 px-6 py-16 sm:px-10 lg:px-16">
-      <Helmet>
-  <title>Web Repscafee Project - Rafi Rhamadan</title>
-  <meta name="description" content="Detail pengerjaan proyek website kafe menggunakan React,  Tailwind CSS, dan  Laravel ." />
-</Helmet>
       <section className="mx-auto max-w-7xl">
         <div className="mb-12 text-center">
           <p className="text-sm uppercase tracking-[0.4em] text-amber-300">Gallery</p>

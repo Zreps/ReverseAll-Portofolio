@@ -3,7 +3,7 @@ import Image2 from '../assets/2ch.png'
 import image3 from '../assets/3ch.png'
 import image4 from '../assets/4ch.png'
 import image5 from '../assets/5ch.png'
-import { Helmet } from 'react-helmet-async'
+
 
 const galleryItems = [
   {
@@ -38,10 +38,7 @@ export default function Cashier() {
   
   return (
     <section className="min-h-screen bg-transparent text-slate-100 px-6 py-16 sm:px-10 lg:px-16">
-      <Helmet>
-  <title>Web-App Cashier Project - Rafi Rhamadan</title>
-  <meta name="description" content="Detail pengerjaan proyek web app kasir menggunakan React vite,  CSS,  dan express ." />
-</Helmet>
+     
       <section className="mx-auto max-w-7xl">
         <div className="mb-12 text-center">
           <p className="text-sm uppercase tracking-[0.4em] text-amber-300">Gallery</p>
