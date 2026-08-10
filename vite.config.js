@@ -12,11 +12,11 @@ export default defineConfig({
         return html
           .replace(
             /<title>(.*?)<\/title>/,
-            `<title>Portofolio Rep| Web Developer Modern</title>`
+            `<title>Portofolio Rep Dev | Web Developer Modern</title>`
           )
           .replace(
             '</head>',
-            `<meta name="description" content="Selamat datang di portofolio resmi Rep. Pengembang aplikasi web dengan keahlian React, Vite, Laravel, dan teknologi modern." />
+            `<meta name="description" content="Selamat datang di portofolio resmi Rep Dev. Pengembang aplikasi web dengan keahlian React, Vite, Laravel, dan teknologi modern." />
             </head>`
           )
       }

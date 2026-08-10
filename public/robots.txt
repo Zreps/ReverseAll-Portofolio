@@ -4,7 +4,7 @@ User-agent: *
 Allow: /
 
 # Sitemap utama
-Sitemap: https://repdev.vercel.app/sitemap.xml
+Sitemap: https://rep-dev-portofolio.vercel.app/sitemap.xml
 
 # Domain utama situs
-Host: repdev.vercel.app
+Host: rep-dev-portofolio.vercel.app
