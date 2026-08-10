@@ -56,7 +56,7 @@ export default function CardName() {
             </h2>
             <div className="space-y-4 text-base leading-7 text-slate-600">
               <p>
-                Halo, perkenalkan saya Rafi Rhamadan atau bisa dipanggil Rep.Saya seorang web developer dengan username ReverseAll.dev.
+                Halo, perkenalkan saya Rafi Rhamadan atau bisa dipanggil Rep.Saya seorang web developer dengan keahlian dalam membangun aplikasi web modern menggunakan React, Vite, dan Laravel.
               </p>
               <p>
                 Saya memiliki pengalaman dalam membangun aplikasi web yang responsif, interaktif,

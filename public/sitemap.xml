@@ -2,21 +2,20 @@
 <urlset xmlns="http://sitemaps.org">
   
   <url>
-    <loc>https://ReverseAll.dev</loc>
+    <loc>https://repdev.vercel.app</loc>
     <lastmod>2026-08-09</lastmod> 
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
-    <loc>https://ReverseAll.dev/cafe</loc>
+    <loc>https://repdev.vercel.app/cafe</loc>
     <priority>0.8</priority>
-  </url> 
+  </url>
 
-   <url>
-    <loc>https://ReverseAll.dev/chasier</loc>
+  <url>
+    <loc>https://repdev.vercel.app/cashier</loc>
     <priority>0.8</priority>
-  </url> 
-  
+  </url>
 
 </urlset>

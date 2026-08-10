@@ -19,7 +19,7 @@ export default function NavBar() {
   return (
     <nav className="fixed left-0 top-0 z-50 w-full border-b border-slate-200 bg-white/90 shadow-sm backdrop-blur-md">
       <div className="mx-auto flex h-20 max-w-7xl items-center justify-between px-6 sm:px-8">
-        <div className="text-lg font-semibold tracking-wide text-slate-800">ReverseAll.Dev</div>
+        <div className="text-lg font-semibold tracking-wide text-slate-800">Reps.Dev</div>
 
         <div className="hidden items-center gap-8 text-sm font-medium text-slate-600 md:flex">
           {links.map((link) => {

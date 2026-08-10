@@ -1,2 +1,10 @@
+# robots.txt untuk portofolio Rep.Dev
+# Mengizinkan semua mesin pencari mengindeks situs
 User-agent: *
 Allow: /
+
+# Sitemap utama
+Sitemap: https://repdev.vercel.app/sitemap.xml
+
+# Domain utama situs
+Host: repdev.vercel.app

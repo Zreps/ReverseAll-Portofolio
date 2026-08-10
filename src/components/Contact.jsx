@@ -100,7 +100,7 @@ const sendEmail = (e) => {
       </div>
     </div>
     <footer className="footer w-full bg-gray-200 p-4 text-center ">
-      <font color='black'>© 2026 Reps | ReverseAll. All rights reserved.</font>
+      <font color='black'>© 2026 Rep. All rights reserved.</font>
     </footer>
     </section>
   );
